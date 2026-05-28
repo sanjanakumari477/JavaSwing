@@ -225,6 +225,7 @@ public class Notepad extends JFrame implements ActionListener {
         SwingUtilities.invokeLater(() -> {
             Notepad notepad = new Notepad();
             notepad.setVisible(true);
+            
         });
     }
 }
