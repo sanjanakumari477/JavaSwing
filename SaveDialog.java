@@ -10,7 +10,6 @@ public class SaveDialog {
         fd.setVisible(true);
     }
 }
-
 class MyFrame extends Frame {
     MyFrame(String s) {
         super(s);
